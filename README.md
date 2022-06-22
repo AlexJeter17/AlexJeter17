@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on java, c++, and Python projects
 - 📫 How to reach me 
  ```
- email - Ajayjeter17@gmail.com
+ email - alexjeter1702@gmail.com
  discord - xFlipz17x#0206
  ```
 
