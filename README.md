@@ -5,7 +5,7 @@
 - 📫 How to reach me 
  ```
  email - alexjeter1702@gmail.com
- discord - xFlipz17x#0206
+ discord - xFlipz17x#3989
  ```
 
 <!---
