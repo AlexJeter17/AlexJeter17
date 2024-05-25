@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @AlexJeter17
 - 👀 I am currently enrolled at CSUDH
-- 🌱 I’m currently studying for a BS in Computer Science
+- 🌱 I’m currently studying for a MS in Computer Science
 - 💞️ I’m looking to collaborate on java, c++, and Python projects
 - 📫 How to reach me 
  ```
  email - alexjeter1702@gmail.com
- discord - xSkyGuy17x#3989
+ discord - xSkyGuy17x
  ```
 
 <!---
